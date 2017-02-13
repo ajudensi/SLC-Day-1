@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/ajudensi/SLC-Day-1#readme",
   "devDependencies": {
-    "jasmine": "^2.5.3",
+    "jasmine": "^2.5.3"
   }
 }
