@@ -15,14 +15,14 @@ const suv = new SUV('Ford', 'Explorer', 'black', 400);
 const suv2 = new SUV();
 
 describe('Car Class: Create Cars, and describe them', function () {
-  describe('Class objects, constructors, and inheitances are well defined', function () {
+  describe('Classes, objects, constructors, and inheritances are well implemented and defined', function () {
     it('Car class, Sport class, SUV class must be defined', function () {
       expect(typeof Car()).toBeDefined();
       expect(typeof SportCar()).toBeDefined();
       expect(typeof SUV()).toBeDefined();
     });
 
-    it('cars shoudl be constructed from their appropriate constructors', function () {
+    it('cars should be constructed from their appropriate constructors', function () {
       expect(car.constructor).toEqual(Car);
       expect(sp.constructor).toEqual(SportCar);
       expect(suv.constructor).toEqual(SUV);
