@@ -2,6 +2,7 @@
 Solutions to tasks for my self-learning clinic day one.
 
 [![Build Status](https://travis-ci.org/ajudensi/SLC-Day-1.svg?branch=master)](https://travis-ci.org/ajudensi/SLC-Day-1)
+[![codebeat badge](https://codebeat.co/badges/a9f54c11-c5d4-4606-8fc3-7bbc8164293b)](https://codebeat.co/projects/github-com-ajudensi-slc-day-1)
 
 ##Tasks
 ### dataTypes
