@@ -1,0 +1,27 @@
+{
+  "name": "slc-day-one",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jasmine tests/dataTypes.js",
+    "tst": "jasmine tests/getPrimes.js",
+    "start": "jasmine tests/oop.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajudensi/SLC-Day-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajudensi/SLC-Day-1/issues"
+  },
+  "homepage": "https://github.com/ajudensi/SLC-Day-1#readme",
+  "devDependencies": {
+    "jasmine": "^2.5.3",
+  }
+}
