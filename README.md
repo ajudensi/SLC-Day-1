@@ -30,8 +30,12 @@ I challenge you to CREATE YOUR OWN OOP IMPLEMENTATION AND WRITE YOUR OWN TESTS.
 
 ## To run tests
 
-```
+```javascript
 npm run datatypes
+```
+```javascript
 npm run getprimes
+```
+```javascript
 npm run oop
 ```
