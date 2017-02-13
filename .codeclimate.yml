@@ -1,0 +1,6 @@
+engines:
+  # ... CONFIG CONTENT ...
+  eslint:
+    # ... CONFIG CONTENT ...
+    enabled: false
+# ... CONFIG CONTENT .
