@@ -7,9 +7,9 @@
     "test": "tests"
   },
   "scripts": {
-    "test": "jasmine tests/dataTypes.js",
-    "tst": "jasmine tests/getPrimes.js",
-    "start": "jasmine tests/oop.js"
+    "datatypes": "jasmine tests/dataTypes.js",
+    "getprimes": "jasmine tests/getPrimes.js",
+    "oop": "jasmine tests/oop.js"
   },
   "repository": {
     "type": "git",
